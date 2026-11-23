@@ -32,7 +32,7 @@ export default function Home() {
 
         <Card
           title="Laptop Gamer"
-          description="Ryzen 7 - 32GB RAM"
+          description="Ryzen 7 - 132GB RAM"
           image={laptop}
           variant="primary"
         >
